@@ -22,9 +22,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.vpslist.net/article/vietnam-vps',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'Locations', url: '/tag/locations' },
-  HEO_HERO_CATEGORY_2: { title: 'Windows VPS', url: '/tag/windows' },
-  HEO_HERO_CATEGORY_3: { title: 'Buy RDP', url: '/tag/rdp' },
+  HEO_HERO_CATEGORY_1: { title: 'Locations', url: '/tag/Locations' },
+  HEO_HERO_CATEGORY_2: { title: 'Windows VPS', url: '/tag/Windows' },
+  HEO_HERO_CATEGORY_3: { title: 'Buy RDP', url: '/tag/RDP' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'Recommend',
